@@ -1,5 +1,5 @@
 ---
-title: BAIN Lerntagebuch
+title: Mein Lerntagebuch
 ---
 
 ## Willkommen zu meinem Lerntagebuch
