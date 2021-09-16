@@ -2,7 +2,6 @@
 title: "Einführungsartikel"
 date: 2021-09-20
 ---
-Einführungsartikel
 Ich besuche das Modul Bibliotheks- und Archivinformatik (BAIN) im Rahmen meiner Vertiefungsrichtung Web- and Usability Engineering des Bachelorstudiums Information Science.
 
 In Bibliotheks- oder Archivinformatik habe ich bis anhin wenig Erfahrungen. Ich arbeite zwar seit mittlerweile fünf Jahren in der Bibliothek. Angefangen in einer Mittelschul- mittlerweile in einer Hochschulbibliothek, meine Erfahrungen beschränken sich aber auf die Anwendung verschiedener Bibliotheksoftware. Dies waren in der Vergangenheit «winMedio.net» und «Aleph» und ist neu die Software «Alma» mit dem Discovery Service «Primo VE» von ExLibris. Berührungspunkte mit der Informatik gab es für mich darum bisher nur durch den Austausch mit unserem Systembibliothekar. Dies war beispielsweise im Rahmen des nationalen Projektes «Swiss Library Service Platform» (SLSP) der Fall, als es darum ging von der Bibliothekssoftware «Aleph» auf «Alma» zu wechseln. So musste in diesem Zusammenhang Datenbereinigungen durchgeführt werden. Zudem unterstützt uns der Systembibliothekar auch, wenn wir zum Beispiel Excel-Listen zu gewünschten Daten brauchen.
