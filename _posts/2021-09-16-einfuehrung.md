@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2021-09-16
+date: 2021-09-20
 ---
 Ich besuche das Modul Bibliotheks- und Archivinformatik (BAIN) im Rahmen meiner Vertiefungsrichtung Web- and Usability Engineering des Bachelorstudiums Information Science.
 
