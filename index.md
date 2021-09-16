@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch Marina
+title: Mein Lerntagebuch
 ---
 
 ## Willkommen zu meinem Lerntagebuch
